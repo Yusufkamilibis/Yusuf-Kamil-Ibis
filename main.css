@@ -70,10 +70,12 @@ a {
     line-height: 30px;
 }
 
-.bcard__tittle {
+.bcard__title {
     color: #f3bf99;
     font-weight: 400;
-    font-size: 1.28rem;
+    font-size: 1.75rem;
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
 }
 
 .bcard__btn-wrapper {
